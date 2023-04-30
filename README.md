@@ -1,5 +1,9 @@
 # Bridge-Infrastructure-Tracking-System
 
+<p align="center">
+  <img src="Arch_bridge_icon.svg" height="250">
+</p>
+
 ### Overview
   Bridge Infrastructure Tracking System, or BITS, is an environmental simulation of the possible factors that can affect bridge health. The Tracking system uses the Raspberry Pi Pico W and Epaper 2.13 display to show a graph of weekly score based on a dataset and scoresheet linked below, as well as simulated environmental factors alongside the graph. This was made for the 2023 UNO IT Innovation Cup Hackathon.
   
